@@ -1,2 +1,7 @@
 # youtube-pandas
-Reúne os códigos desenvolvidos sobre a biblioteca Pandas do python.
+
+**Sobre**: Reúne códigos desenvolvidos em nosso [canal](https://www.youtube.com/c/LetsCodeBR/featured) do YouTube sobre a biblioteca Pandas do python.
+
+## YouTube links:
+* **renomear_coluna.ipynb**: https://www.youtube.com/watch?v=Ax80fdMAHYU&t=12s
+* **adicionar_nova_coluna.ipynb**: https://www.youtube.com/watch?v=N9m2Pqy1nc8
